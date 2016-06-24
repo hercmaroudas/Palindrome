@@ -1,0 +1,18 @@
+d:\users\eric\visual studio 2015\Projects\Palendrome\Palendrome.Test\obj\Debug\Palendrome.Test.csprojResolveAssemblyReference.cache
+d:\users\eric\visual studio 2015\Projects\Palendrome\Palendrome.Test\bin\Debug\Palendrome.Test.dll
+d:\users\eric\visual studio 2015\Projects\Palendrome\Palendrome.Test\bin\Debug\Palendrome.Test.pdb
+d:\users\eric\visual studio 2015\Projects\Palendrome\Palendrome.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\users\eric\visual studio 2015\Projects\Palendrome\Palendrome.Test\bin\Debug\Palendrome.exe
+d:\users\eric\visual studio 2015\Projects\Palendrome\Palendrome.Test\bin\Debug\Palendrome.pdb
+d:\users\eric\visual studio 2015\Projects\Palendrome\Palendrome.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+d:\users\eric\visual studio 2015\Projects\Palendrome\Palendrome.Test\obj\Debug\Palendrome.Test.dll
+d:\users\eric\visual studio 2015\Projects\Palendrome\Palendrome.Test\obj\Debug\Palendrome.Test.pdb
+D:\Users\Eric\GitHub\Palindrome\Palendrome.Test\bin\Debug\Palendrome.Test.dll
+D:\Users\Eric\GitHub\Palindrome\Palendrome.Test\bin\Debug\Palendrome.Test.pdb
+D:\Users\Eric\GitHub\Palindrome\Palendrome.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Users\Eric\GitHub\Palindrome\Palendrome.Test\bin\Debug\Palendrome.exe
+D:\Users\Eric\GitHub\Palindrome\Palendrome.Test\bin\Debug\Palendrome.pdb
+D:\Users\Eric\GitHub\Palindrome\Palendrome.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Users\Eric\GitHub\Palindrome\Palendrome.Test\obj\Debug\Palendrome.Test.csprojResolveAssemblyReference.cache
+D:\Users\Eric\GitHub\Palindrome\Palendrome.Test\obj\Debug\Palendrome.Test.dll
+D:\Users\Eric\GitHub\Palindrome\Palendrome.Test\obj\Debug\Palendrome.Test.pdb

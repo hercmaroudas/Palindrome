@@ -1,0 +1,11 @@
+d:\users\eric\visual studio 2015\Projects\Palendrome\Palendrome\bin\Debug\Palendrome.exe.config
+d:\users\eric\visual studio 2015\Projects\Palendrome\Palendrome\bin\Debug\Palendrome.exe
+d:\users\eric\visual studio 2015\Projects\Palendrome\Palendrome\bin\Debug\Palendrome.pdb
+d:\users\eric\visual studio 2015\Projects\Palendrome\Palendrome\obj\Debug\Palendrome.exe
+d:\users\eric\visual studio 2015\Projects\Palendrome\Palendrome\obj\Debug\Palendrome.pdb
+D:\Users\Eric\GitHub\Palindrome\Palendrome\bin\Debug\Palendrome.exe.config
+D:\Users\Eric\GitHub\Palindrome\Palendrome\obj\Debug\Palendrome.exe
+D:\Users\Eric\GitHub\Palindrome\Palendrome\obj\Debug\Palendrome.pdb
+D:\Users\Eric\GitHub\Palindrome\Palendrome\bin\Debug\Palendrome.exe
+D:\Users\Eric\GitHub\Palindrome\Palendrome\bin\Debug\Palendrome.pdb
+D:\Users\Eric\GitHub\Palindrome\Palendrome\obj\Debug\Palendrome.csprojResolveAssemblyReference.cache
