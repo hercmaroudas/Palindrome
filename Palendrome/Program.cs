@@ -9,7 +9,7 @@ namespace Palendrome
     
         public static void Main(string[] args)
         {
-            var input = "sqrrqabccbatudefggfedvwhijkllkjihxymnnmzpop";
+            var input = "sqrrqabccbatudefggfedvwhijkllkjihxymnnmzpopsqrrqabccbatudefggfedvwhijkllkjihxymnnmzpop";
 
             var palendromeResults = Calculator.GetResults(input)
                 .OrderByDescending(o => o.Length);
@@ -19,7 +19,7 @@ namespace Palendrome
                 .Select(g => g.First())
                 .Take(3).ToList();
 
-            palendromeResults.ToList().ForEach(
+            grouped.ForEach(
                 p => Console.WriteLine(p));
 
             Console.ReadLine();
